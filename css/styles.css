@@ -1,2 +1,52 @@
+/* body  */
+
+	body {
+		font-family: arial;
+	}	
+
+/* body end  */
+
+/*  nav */
+
+	nav {
+		padding: 10px 0 0 10px;
+	}
+
+	nav ul {
+		list-style: none; 
+		padding-left: 0;
+	}
+
+	nav li a {
+		text-decoration: none;
+		text-transform: uppercase;
+		background-color: #e5005f;
+		color: #ffffff;
+		font-size: x-large; 
+		padding: 5px 10px;
+		display: inline-block;
+		margin: 2px;
+	}
+
+	nav li a:hover,
+	#active {
+		background-color: #333333;
+	}
+
+	nav > a{
+		display: block;
+		text-decoration: none;
+		color: #333333;
+		text-transform: uppercase;
+		margin-bottom: 10px;
+		font-weight: bold;
+	}
+
+	nav > a:hover{
+		color: #e5005f;
+	}
+
+/* nav end */
+
 
 
