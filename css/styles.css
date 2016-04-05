@@ -10,6 +10,7 @@
 
 	nav {
 		padding: 10px 0 0 10px;
+		width: 240px;
 	}
 
 	nav ul {
@@ -33,18 +34,22 @@
 		background-color: #333333;
 	}
 
-	nav > a{
-		display: block;
-		text-decoration: none;
-		color: #333333;
-		text-transform: uppercase;
-		margin-bottom: 10px;
-		font-weight: bold;
-	}
+	/* sub nav */
 
-	nav > a:hover{
-		color: #e5005f;
-	}
+		nav > a{
+			display: block;
+			text-decoration: none;
+			color: #333333;
+			text-transform: uppercase;
+			margin-bottom: 10px;
+			font-weight: bold;
+		}
+
+		nav > a:hover{
+			color: #e5005f;
+		}
+
+	/* sub nav end */
 
 /* nav end */
 
