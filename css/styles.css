@@ -55,7 +55,8 @@
 
 /* main */
 	main {
-		width: 45%;
+		float: left;
+		width: 49%;
 	}
 
 	/* aside */
@@ -165,6 +166,38 @@
 		top: -22px;
 
 	}
+
+
+
+
+
+
+/* side */
+
+#extra {
+	width: 49%;
+	float: right;
+}	
+
+#social{
+	background-color: #e5005f;
+	color: #ffffff;
+	padding: 20px;
+	text-align: right;
+
+}
+
+#social a{
+	color: inherit;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
 
 
 	
