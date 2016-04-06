@@ -2,6 +2,7 @@
 
 	body {
 		font-family: arial;
+		padding-left: 280px;
 	}	
 
 /* body end  */
@@ -11,6 +12,8 @@
 	nav {
 		padding: 10px 0 0 10px;
 		width: 240px;
+		position: fixed;
+		left: 10px;
 	}
 
 	nav ul {
@@ -49,9 +52,82 @@
 			color: #e5005f;
 		}
 
-	/* sub nav end */
 
-/* nav end */
+/* main */
+	main {
+		width: 45%;
+	}
+
+	/* aside */
+		/* email */
+			main aside p {
+				background-color: #eeeeee;
+				padding: 10px;
+			}
+
+		hr {
+			border: none;
+			border-top: 1px solid #dddddd;
+		}
+
+	/* article */
+
+	article img{
+		max-width: 100%;
+
+	}	
+			
+
+	
+
+	
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* end */
