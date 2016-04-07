@@ -322,7 +322,21 @@
 	box-sizing: border-box;
 }
 
+#sponsors img{
+	width: calc (33.333% - 8px);
+	float: left;
+	box-sizing: border-box;
+	padding: 5px;
+	border: 1px solid #dddddd;
+	margin: 4px;
+}
 
+#property h1 span {
+	color: #777777;
+	display: block;
+	text-transform: none;
+	font-size: 14px;
+}
 
 
 
