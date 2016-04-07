@@ -192,6 +192,34 @@
 	text-decoration: none;
 }
 
+#newsletter p {
+	font-weight: bold;
+	text-align: right;
+	padding-right: 60px;
+
+}
+
+#newsletter {
+	padding: 20px 0;
+	background-color: #dddddd;
+	background-image: url(../img/envelope2.png);
+	background-repeat: no-repeat;
+	background-position: 15px, center;
+}
+
+#newsletter a{
+	color: #ffffff;
+	padding: 12px;
+	text-decoration: none;
+	background-color: #e5005f;
+	text-transform: uppercase;
+	font-weight: normal;
+}
+
+#newsletter a:hover{
+	background-color: #333333;
+
+}	
 
 
 
