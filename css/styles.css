@@ -177,6 +177,7 @@
 #extra {
 	width: 49%;
 	float: right;
+	background-color: #eeeeee;
 }	
 
 #social{
@@ -220,6 +221,110 @@
 	background-color: #333333;
 
 }	
+
+
+#extra section > h1 {
+	text-transform: uppercase;
+	font-size: 18px;
+	border-bottom: 1px solid #dddddd;
+	padding-bottom: 5px;
+}
+
+#extra section{
+	margin-bottom: 40px;
+
+} 
+
+
+
+
+
+
+#left {
+	float: left;
+	width: 45%;
+	padding-right: 15px;
+	padding-left: 15px;
+	box-sizing: border-box;
+}
+
+#comment img {
+	float: left;
+	margin-right: 10px;
+}
+
+#comment p a {
+	font-weight: bold;
+	text-decoration: none;
+	color: #333333;
+}
+
+#comment p a:hover {
+	text-decoration: underline;
+}
+
+#comment article > a{
+	color: #e5005f;
+	text-decoration: none;
+	font-size: small;
+}	
+
+#comment article > a:hover{
+	text-decoration: underline;
+}	
+
+#top-5 {
+	padding: 10px;
+	background-color: #ffffff;
+}
+
+#top-5 img{
+	float: left;
+	margin-right: 10px;
+}
+
+#top-5 a {
+	color: #333333;
+	font-size: 16px;
+	text-decoration: none;
+}
+
+#top-5 a:hover {
+	color: #000000;
+	text-decoration: underline;
+}
+
+#top-5 article {
+	border-bottom: 1px dashed #dddddd;
+	padding-bottom: 10px;
+}
+
+#top-5 article:after{
+	content: '';
+	display: block;
+	clear: both;
+}
+
+
+
+
+
+
+
+
+
+
+#right {
+	float: right;
+	width: 55%;
+	padding-left: 15px;
+	padding-right: 15px;
+	box-sizing: border-box;
+}
+
+
+
+
 
 
 
